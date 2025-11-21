@@ -1,0 +1,5 @@
+1|Pantalon negro|140|casual
+123|saco azul|1500|formal
+231|sudadera gris claro|800|casual
+421|lentes azules|200|ninguna
+32|chamarra roja|600|invernal
