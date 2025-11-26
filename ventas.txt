@@ -1,0 +1,6 @@
+saco azul|1500.0|2|3000.0
+Pantalon negro|140.0|4|560.0
+sudadera gris claro|800.0|6|4800.0
+lentes azules|200.0|1|200.0
+chamarra roja|600.0|7|4200.0
+Pantalon negro|140.0|6|840.0
